@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RWHarrison
-- 👀 I’m interested in pentesting mobile and web apps, secure coding, machine learning and bug bounty.   
-- 🌱 I’m currently learning Full Stack Web Development, though will be specialising in UI/UX design. 
-- 💞️ I’m looking to collaborate on Front End Web Dev and secure coding. 
+- 👋 Hi, I’m Rob.
+- 👀 I’m interested Web & Mobile developing, Infossec & Web 3.0.  
+- 🌱 I’m currently focusing on blockchain. In particular, NFT's & Dapps. 
+- 💞️ I’m looking to collaborate on Front End Web Dev, secure coding or Dapps. 
 - 📫 You can reach me at my email: hamiltonwayne34@gmail.com
 
 <!---
